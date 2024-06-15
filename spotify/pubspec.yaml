@@ -1,0 +1,84 @@
+name: spotif
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+  line_icons: ^2.0.3
+  ionicons: ^0.2.2
+  google_fonts: ^5.1.0
+  icons_plus: ^4.0.0
+  eva_icons_flutter: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  image_path: "assets/logo.png"
+  android: true
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/1.png
+    - assets/2.png
+    - assets/3.png
+    - assets/4.png
+    - assets/5.png
+    - assets/6.png
+    - assets/77.png
+    - assets/image1.png
+    - assets/image2.png
+    - assets/image3.png
+    - assets/image4.png
+    - assets/image5.png
+    - assets/image6.png
+    - assets/mix1.png
+    - assets/mix2.png
+    - assets/mix3.png
+    - assets/mix4.png
+    - assets/mix5.png
+    - assets/kk.png
+    - assets/nothing.png
+    - assets/c1.png
+    - assets/c2.png
+    - assets/c3.png
+    - assets/c4.png
+    - assets/c5.png
+    - assets/jailer.png
+    - assets/nira.png
+    - assets/vk.png
+    - assets/pc1.png
+    - assets/pc2.png
+    - assets/pc3.png
+    - assets/pc4.png
+    - assets/pc5.png
+
+
+
+  fonts:
+    - family: spotifyfonts
+      fonts:
+        - asset: fonts/Gotham-Black.otf 
+        - asset: fonts/Gotham-Bold.otf 
+        - asset: fonts/Gotham-Light.otf 
+        - asset: fonts/Gotham-Thin.otf 
+        - asset: fonts/Gotham-XLight.otf 
+        - asset: fonts/GothamBold.ttf 
+        - asset: fonts/GothamBook.ttf 
+        - asset: fonts/GothamLight.ttf  
+        - asset: fonts/GothamMedium.ttf 
